@@ -12,7 +12,7 @@ let personalMovieDB = {
     movies: {},
     actors: {},
     genres: [],
-    privat: false,
+    private: false,
 };
 
 personalMovieDB.movies[lastFilm1] = appraisal1;
